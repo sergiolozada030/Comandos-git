@@ -10,3 +10,5 @@
 8. git checkout -b rama-heroes = _para crear una nueva rama_
 9. git checkout master = _Para cambiarnos de rama_
 10. git branch -d rama-heroes = _Para eliminar una rama_
+11. git push = _Para desplegar cambios al repositorio_
+12. git commit -am = _paso 2 y 4 en un solo comando_
